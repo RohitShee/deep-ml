@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:59:38.372Z",
+  "generated_at": "2026-10-06T14:59:40.404Z",
   "items": {
     "problem:112": {
       "kind": "problem",
@@ -78,6 +78,45 @@
       "last_pushed_at": "2026-09-30T15:09:47.924Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-10-02T14:46:11.774Z",
+      "last_pushed_at": "2026-10-02T14:46:11.774Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-10-02T14:50:17.652Z",
+      "last_pushed_at": "2026-10-02T14:50:17.652Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-10-02T14:55:52.076Z",
+      "last_pushed_at": "2026-10-02T14:55:52.076Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
