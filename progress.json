@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:59:43.156Z",
+  "generated_at": "2026-10-06T14:59:45.329Z",
   "items": {
     "problem:112": {
       "kind": "problem",
@@ -143,6 +143,19 @@
       "last_pushed_at": "2026-10-03T15:17:56.403Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-10-04T14:41:21.440Z",
+      "last_pushed_at": "2026-10-04T14:41:21.440Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
