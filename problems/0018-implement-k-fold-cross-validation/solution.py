@@ -21,7 +21,7 @@ def k_fold_cross_validation(n_samples: int, k: int = 5, shuffle: bool = True) ->
     fold_size[0] += n_samples%k
     start_idx= 0
     for i in range(k) :
-        cv.append((np.concatenate((indexes[0: start_idx],indexes[start_idx+fold_size[i] : n_samples])),indexes[start_idx : start_idx+fold_size[i]]))
+        cv.append((np.concatenate((indexes[0: start_idx],indexes[start_idx+fold_size[i] : n_samples])).tolist(),indexes[start_idx : start_idx+fold_size[i]].tolist()))
         start_idx+=fold_size[i]
     return cv
     # Your code here
