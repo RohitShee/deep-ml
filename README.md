@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 28 problems · 0 labs · 0 math
+**29** solved · 29 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Auto-Sized MLP from Gym Spaces](https://www.deep-ml.com/problems/673) | easy | 2026-10-25 | [solution](problems/0673-auto-sized-mlp-from-gym-spaces) |
 | [Balance Dataset via Undersampling](https://www.deep-ml.com/problems/1057) | easy | 2026-10-14 | [solution](problems/1057-balance-dataset-via-undersampling) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-17 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-09-15 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
